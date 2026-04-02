@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>AllerGuard uses your location to show the correct local emergency services number for your country.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>AllerGuard needs access to your photos so you can import food label images for allergen scanning.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>AllerGuard uses your camera to scan food ingredient labels for allergen detection.</string>
+	<key>NSUserNotificationsUsageDescription</key>
+	<string>AllerGuard can send reminders to help you stay on top of safe eating.</string>
+</dict>
+</plist>
